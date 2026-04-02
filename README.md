@@ -25,5 +25,5 @@ results/
 pip install -r requirements.txt
 
 ## Run the Tool:
-python3 wcf_enum.py
+python3 Enum.py
 
